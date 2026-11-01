@@ -33,7 +33,6 @@ metadata:
 | Подготовить CSV для импорта в TestIT | `references/import-and-traceability.md` (раздел о CSV) |
 | Упорядочить наборы и разделы | `references/import-and-traceability.md` (раздел об организации) |
 | Связать требования с тестами и найти пробелы в покрытии | [Прослеживаемость требований](#traceability) и `references/import-and-traceability.md` |
-| Решить, стоит ли автоматизировать ручной тест | [Отбор кейсов для автоматизации](#automation-graduation) |
 
 ## Что уточнить перед началом
 
